@@ -1,6 +1,6 @@
 # gamewith公布的主教虹卡
 
-![卡图](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/主教虹卡.jpeg)
+![主教虹卡](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/主教虹卡.jpeg)
 
 有翼の光輝·ガルラ
 

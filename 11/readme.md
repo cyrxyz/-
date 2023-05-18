@@ -1,6 +1,6 @@
 # 电击online发布的精灵虹卡
 
-![卡图](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/精灵虹卡.jpeg)
+![精灵虹卡](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/精灵虹卡.jpeg)
 
 根深き手の異形
 

@@ -1,6 +1,6 @@
 # gamer发布的法师虹卡
 
-![卡图](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/法师虹卡.jpeg)
+![法师虹卡](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/法师虹卡.jpeg)
 
 帝皇巨像
 

@@ -1,6 +1,6 @@
 # Ignideus发布的吸血鬼金卡
 
-![卡图](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/吸血鬼金卡.jpeg)
+![吸血鬼金卡](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/吸血鬼金卡.jpeg)
 
 吸血鬼 金卡 从者
 8费 7/7

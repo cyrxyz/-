@@ -1,6 +1,6 @@
 # ファミ通App公开的龙族虹卡
 
-![卡图](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/龙族虹卡.jpeg)
+![龙族虹卡](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/龙族虹卡.jpeg)
 
 タラスク
 881龙族虹卡从者

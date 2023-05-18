@@ -1,6 +1,6 @@
 # 棒子发布的主教金卡
 
-![卡图](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/主教金卡.jpeg)
+![主教金卡](https://raw.githubusercontent.com/cyrxyz/SZB-DLC/main/img/主教金卡.jpeg)
 
 主教 守护 112
 
